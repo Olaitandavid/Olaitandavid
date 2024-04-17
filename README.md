@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olaitandavid
-- 👀 I’m interested in Working on data project
-- 🌱 I’m currently learning data analysis
+- 👀 I’m interested in Working on excel,SQL, and powerBI
+- 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on diverse data analytical project
 - 📫 How to reach me olaitandavid@gmail.com
 - 😄 Pronouns: Aremzo
